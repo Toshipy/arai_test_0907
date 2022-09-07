@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915590349677",
+    "project_id": "test-arai0907",
+    "storage_bucket": "test-arai0907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915590349677:android:9d6bc3b8243ef1d4dbd064",
+        "android_client_info": {
+          "package_name": "sysconsupport.syscon_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915590349677-n8tqvgbkf8pm76onsuv5ftiv3blsrka1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKKB6XzFX7bdmHnVg3RfbGbPbmRFDD6xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915590349677-n8tqvgbkf8pm76onsuv5ftiv3blsrka1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
